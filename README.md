@@ -21,11 +21,11 @@ python map.py
 
 ## Screenshots
 
-(Add your images here, for example:)
-
 <img width="599.25" height="476.25" alt="UI with Sand" src="https://github.com/user-attachments/assets/06d6f127-73de-4f9e-bb43-3074e56bca4f" />
-<img width="633.75" height="482.25" alt="Start and End Points" src="https://github.com/user-attachments/assets/dab2834b-bccd-4c24-ab07-9fb36ab1b64e" />
+The General UI (with the sand, press and hold RMB to draw)
 
+<img width="633.75" height="482.25" alt="Start and End Points" src="https://github.com/user-attachments/assets/dab2834b-bccd-4c24-ab07-9fb36ab1b64e" />
+The path the car is supposed to take
 ---
 
 ## Files in this repo
